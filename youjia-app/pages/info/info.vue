@@ -1,7 +1,7 @@
 <template>
 	<view class="content">
 		<view class="title">
-			{{title}}
+			{{title}}....test
 		</view>
 		<view class="art-content">
 			<rich-text class="rich-text" :nodes="strings"></rich-text>
